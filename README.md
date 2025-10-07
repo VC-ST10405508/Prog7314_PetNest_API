@@ -11,7 +11,13 @@ https://youtu.be/uHv4885ecJA
 ## API URL:
 https://petnest-api.onrender.com/
 ---
+## Team members:
+- Joshua Ponquett: St10405508
+- Thando Phiri: Thando Phiri
+- Lihlethando Funde: ST10210396
+- Ayana Modise: ST10375530
 
+---
 
 ## API Introduction
 
