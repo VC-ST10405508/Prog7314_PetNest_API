@@ -1,6 +1,3 @@
-Ah! Got it this time — you want the **full content literally written as Markdown** using `#`, `##`, `###`, `---`, code blocks, and tables — exactly like a GitHub README. No emojis, no extra formatting, just proper Markdown syntax. Here’s the full conversion:
-
-````markdown
 # PetNest API & Android App
 
 ## Android App
