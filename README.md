@@ -5,9 +5,14 @@
 **GitHub Repository:**  
 [https://github.com/ST10375530/PROG7314-CODE](https://github.com/ST10375530/PROG7314-CODE)
 
-The main README file and YouTube demo video can be found in the repository above.
-
 ---
+## Youtube video Link:
+https://youtu.be/uHv4885ecJA
+---
+## API URL:
+https://petnest-api.onrender.com/
+---
+
 
 ## API Introduction
 
