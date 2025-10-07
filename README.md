@@ -1,8 +1,7 @@
 # PetNest API & Android App
 
-## Android App
+## Android App GitHub link
 
-**GitHub Repository:**  
 [https://github.com/ST10375530/PROG7314-CODE](https://github.com/ST10375530/PROG7314-CODE)
 
 ---
@@ -212,11 +211,4 @@ MongoDB. 2025. *$regex.* [Online]. Available at: [https://www.mongodb.com/docs/m
 MSD Manual. 2025. *Dosages of Penicillins.* [Online]. Available at: [https://www.msdvetmanual.com/multimedia/table/dosages-of-penicillins](https://www.msdvetmanual.com/multimedia/table/dosages-of-penicillins) [Accessed 6 October 2025].
 MSD Manual. 2025. *Selected Analgesics for Use in Dogs.* [Online]. Available at: [https://www.msdvetmanual.com/multimedia/table/selected-analgesics-for-use-in-dogs](https://www.msdvetmanual.com/multimedia/table/selected-analgesics-for-use-in-dogs) [Accessed 6 October 2025].
 
-```
-
----
-
-If you want, I can also **compress this into a ready-to-paste `README.md` file** that you can drop straight into GitHub.  
-
-Do you want me to do that?
 ```
