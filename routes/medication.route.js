@@ -1,5 +1,5 @@
 import express from 'express';
-import Medication from '../models/medication.js';
+import Medication from '../models/Medication.js';
 import mongoose from 'mongoose';
 const router = express.Router();
 
