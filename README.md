@@ -211,4 +211,3 @@ MongoDB. 2025. *$regex.* [Online]. Available at: [https://www.mongodb.com/docs/m
 MSD Manual. 2025. *Dosages of Penicillins.* [Online]. Available at: [https://www.msdvetmanual.com/multimedia/table/dosages-of-penicillins](https://www.msdvetmanual.com/multimedia/table/dosages-of-penicillins) [Accessed 6 October 2025].
 MSD Manual. 2025. *Selected Analgesics for Use in Dogs.* [Online]. Available at: [https://www.msdvetmanual.com/multimedia/table/selected-analgesics-for-use-in-dogs](https://www.msdvetmanual.com/multimedia/table/selected-analgesics-for-use-in-dogs) [Accessed 6 October 2025].
 
-```
